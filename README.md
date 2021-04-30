@@ -23,7 +23,6 @@ This project was developed in the studies purpose with the following technologie
 
 - [NextJS](https://nextjs.org/)
 - [Chakra UI](https://chakra-ui.com/)
-- [SASS](https://sass-lang.com/)
 - [React Hook Form](https://react-hook-form.com/)
 - [Yup](https://github.com/jquense/yup)
 
